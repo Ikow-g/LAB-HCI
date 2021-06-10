@@ -1,4 +1,4 @@
-# LAB-HCI
+# LAB-HCI product page
 
 This is my project lab HCI(Human and Computer Interaction).
 
